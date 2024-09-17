@@ -253,7 +253,7 @@
   stop_n = -1
   stop_option = "date"
   stop_ymd = __simend__
-  stop_tod = 0
+  stop_tod = __simendsec__
   tprof_n = -999
   tprof_option = "never"
   tprof_ymd = -999
