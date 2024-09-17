@@ -20,11 +20,10 @@
    </domainInfo>
    <fieldInfo>
       <variableNames>
-        TBOT     tbot 
-        WIND     wind
-        QBOT     shum 
-        PSRF     pbot
-        FLDS	   lwdn
+        TBOT       tbot
+        WIND       wind
+        TDEW       tdew
+        FLDS       lwdn
       </variableNames>
       <filePath>
         __forcdir__
