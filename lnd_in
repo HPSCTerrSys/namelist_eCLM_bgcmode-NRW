@@ -140,7 +140,7 @@
  flux_calculation = 1
  inexpensive = 1
  lower_boundary_condition = 2
- soilwater_movement_method = 1
+ soilwater_movement_method = __swmm__
  upper_boundary_condition = 1
  verysmall = 1e-08
  xtolerlower = 0.01
