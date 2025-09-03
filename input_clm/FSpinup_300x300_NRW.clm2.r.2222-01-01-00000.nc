@@ -1,1 +1,1 @@
-/p/project1/training2433/shared_data/Day4/inputdata/nrw_300x300/FSpinup_300x300_NRW.clm2.r.2222-01-01-00000.nc
+/p/project1/training2538/shared_data/Day4/inputdata/nrw_300x300/FSpinup_300x300_NRW.clm2.r.2222-01-01-00000.nc
