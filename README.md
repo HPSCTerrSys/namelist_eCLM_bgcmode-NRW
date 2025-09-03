@@ -1,4 +1,5 @@
-# eCLM namelist template
+# eCLM namelist NRW
 
-eCLM namelist for simulations in biogeochemistry (BGC) mode. Can be used in combination with TSMP2 workflow engine. 
+eCLM namelist for NRW test in biogeochemistry (BGC) mode. Used in the
+FallSchool 2025.
 
