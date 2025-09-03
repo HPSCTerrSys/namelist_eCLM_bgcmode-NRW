@@ -1,1 +1,1 @@
-/p/project1/training2433/shared_data/Day4/inputdata/common/fndep_clm_hist_b.e21.BWHIST.f09_g17.CMIP6-historical-WACCM.ensmean_1849-2015_monthly_0.9x1.25_c180926.nc
+/p/project1/training2538/shared_data/Day4/inputdata/common/fndep_clm_hist_b.e21.BWHIST.f09_g17.CMIP6-historical-WACCM.ensmean_1849-2015_monthly_0.9x1.25_c180926.nc

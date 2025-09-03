@@ -1,1 +1,1 @@
-/p/project1/training2433/shared_data/Day4/inputdata/common/aerosoldep_WACCM.ensmean_monthly_hist_1849-2015_0.9x1.25_CMIP6_c180926.nc
+/p/project1/training2538/shared_data/Day4/inputdata/common/aerosoldep_WACCM.ensmean_monthly_hist_1849-2015_0.9x1.25_CMIP6_c180926.nc
