@@ -12,24 +12,25 @@
         mask    mask
       </variableNames>
       <filePath>
-        __geo_dir_clm__
+      ./input_clm
       </filePath>
       <fileNames>
-        __domainfile_clm__
+	domain.lnd.300x300_NRW_300x300_NRW.190619.nc
       </fileNames>
    </domainInfo>
    <fieldInfo>
       <variableNames>
         TBOT       tbot
         WIND       wind
-        TDEW       tdew
-        FLDS       lwdn
+        QBOT       shum
+        PSRF       pbot
       </variableNames>
       <filePath>
-        __forcdir__
+	./forcings
       </filePath>
       <fileNames>
-	__forclist__
+	2017-01.nc
+	2017-03.nc
       </fileNames>
       <offset>
         0

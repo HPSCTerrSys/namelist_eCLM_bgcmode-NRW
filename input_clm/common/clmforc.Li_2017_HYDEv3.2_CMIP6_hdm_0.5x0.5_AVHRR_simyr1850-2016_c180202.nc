@@ -1,0 +1,1 @@
+/p/project1/training2433/shared_data/Day4/inputdata/common/clmforc.Li_2017_HYDEv3.2_CMIP6_hdm_0.5x0.5_AVHRR_simyr1850-2016_c180202.nc

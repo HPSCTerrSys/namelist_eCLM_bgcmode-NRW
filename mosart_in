@@ -6,7 +6,7 @@
   do_rtm = .false.
   do_rtmflood = .false.
   finidat_rtm = " "
-  frivinp_rtm = "__geo_dir_clm__/inputdata/"
+  frivinp_rtm = ""
   ice_runoff = .true.
   qgwl_runoff_option = "threshold"
   rtmhist_fexcl1 = ""

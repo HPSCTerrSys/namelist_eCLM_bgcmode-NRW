@@ -12,7 +12,7 @@
         mask    mask
   </variableNames>
   <filePath>
-     __geo_dir_clm__/aero
+      ./input_clm/common
   </filePath>
   <fileNames>
      aerosoldep_WACCM.ensmean_monthly_hist_1849-2015_0.9x1.25_CMIP6_c180926.nc
@@ -36,7 +36,7 @@
         DSTX04DD   dstdry4
    </variableNames>
    <filePath>
-     __geo_dir_clm__/aero
+      ./input_clm/common
    </filePath>
    <fileNames>
     aerosoldep_WACCM.ensmean_monthly_hist_1849-2015_0.9x1.25_CMIP6_c180926.nc

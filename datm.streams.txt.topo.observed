@@ -12,7 +12,7 @@
         mask   mask
   </variableNames>
   <filePath>
-     __geo_dir_clm__/topo
+    ./input_clm/common
   </filePath>
   <fileNames>
      topodata_0.9x1.25_USGS_070110_stream_c151201.nc
@@ -23,7 +23,7 @@
      TOPO topo
    </variableNames>
    <filePath>
-     __geo_dir_clm__/topo
+     ./input_clm/common
    </filePath>
    <fileNames>
     topodata_0.9x1.25_USGS_070110_stream_c151201.nc

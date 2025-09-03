@@ -1,0 +1,1 @@
+/p/project1/training2433/shared_data/Day4/inputdata/common/CLM50_tbuildmax_Oleson_2016_0.9x1.25_simyr1849-2106_c160923.nc

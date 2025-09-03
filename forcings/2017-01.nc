@@ -1,0 +1,1 @@
+/p/project1/training2433/shared_data/Day4/inputdata/nrw_300x300/COSMOREA6_forcings/2017-01.nc
