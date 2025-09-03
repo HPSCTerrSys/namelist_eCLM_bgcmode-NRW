@@ -1,7 +1,7 @@
 &modelio
  diri = 'UNUSED'
- diro = "DUMMY/logs"
- logfile = "DUMMY.comp_lnd.log"
+ diro = './logs'
+ logfile = 'lnd.log'
 /
 &pio_inparm
  pio_netcdf_format = '64bit_offset'
