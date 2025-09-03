@@ -2,9 +2,9 @@
 #SBATCH --job-name=nrw_300x300
 #SBATCH --nodes=1
 #SBATCH --ntasks-per-node=128
-#SBATCH --account=training2433
-#SBATCH --partition=dc-cpu
-#SBATCH --reservation=training2433_day2
+#SBATCH --account=training2538
+#SBATCH --partition=batch
+###SBATCH --reservation=training2433_day2
 #SBATCH --time=2:30:00
 #SBATCH --output=logs/%j.eclm_pdaf.nrw_300x300.out
 #SBATCH --error=logs/%j.eclm_pdaf.nrw_300x300.err
