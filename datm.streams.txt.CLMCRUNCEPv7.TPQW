@@ -1,39 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <file id="stream" version="1.0">
-   <dataSource>
-        GENERIC
-   </dataSource>
-   <domainInfo>
-      <variableNames>
-        time    time
-        xc      lon 
-        yc      lat
-        area    area
-        mask    mask
-      </variableNames>
-      <filePath>
-      ./input_clm
-      </filePath>
-      <fileNames>
-	domain.lnd.300x300_NRW_300x300_NRW.190619.nc
-      </fileNames>
-   </domainInfo>
-   <fieldInfo>
-      <variableNames>
-        TBOT       tbot
-        WIND       wind
-        QBOT       shum
-        PSRF       pbot
-      </variableNames>
-      <filePath>
-	./forcings
-      </filePath>
-      <fileNames>
-	2017-01.nc
-	2017-03.nc
-      </fileNames>
-      <offset>
-        0
-      </offset>
-   </fieldInfo>
+  <dataSource>
+    GENERIC
+  </dataSource>
+  <domainInfo>
+    <variableNames>
+      time    time
+      xc      lon
+      yc      lat
+      area    area
+      mask    mask
+    </variableNames>
+    <filePath>
+      /p/project1/training2538/shared_data/Day1_2/Regional_NRW/inputdata
+    </filePath>
+    <fileNames>
+      domain.lnd.300x300_NRW_300x300_NRW.190619.nc
+    </fileNames>
+  </domainInfo>
+  <fieldInfo>
+    <variableNames>
+      TBOT       tbot
+      WIND       wind
+      QBOT       shum
+      PSRF       pbot
+    </variableNames>
+    <filePath>
+      /p/project1/training2538/shared_data/Day1_2/Regional_NRW/inputdata/COSMOREA6_forcings
+    </filePath>
+    <fileNames>
+      2017-01.nc
+      2017-03.nc
+    </fileNames>
+  <offset>
+    0
+  </offset>
+  </fieldInfo>
 </file>

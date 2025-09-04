@@ -1,1 +1,0 @@
-/p/project1/training2538/shared_data/Day4/inputdata/common/clm5_params.c171117.nc

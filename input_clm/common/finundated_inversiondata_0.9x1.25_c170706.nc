@@ -1,1 +1,0 @@
-/p/project1/training2538/shared_data/Day4/inputdata/common/finundated_inversiondata_0.9x1.25_c170706.nc

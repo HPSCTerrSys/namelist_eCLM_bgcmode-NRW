@@ -1,1 +1,0 @@
-/p/project1/training2538/shared_data/Day4/inputdata/nrw_300x300/domain.lnd.300x300_NRW_300x300_NRW.190619.nc

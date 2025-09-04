@@ -1,7 +1,7 @@
 &megan_emis_nl
-  megan_factors_file = './input_clm/common/megan21_emis_factors_78pft_c20161108.nc'
-  megan_specifier = 'ISOP = isoprene',
-      'C10H16 = pinene_a + carene_3 + thujene_a', 'CH3OH = methanol',
-      'C2H5OH = ethanol', 'CH2O = formaldehyde', 'CH3CHO = acetaldehyde',
-      'CH3COOH = acetic_acid', 'CH3COCH3 = acetone'
+ megan_factors_file = '/p/project1/training2538/naz1/shared_data/Day1_2/common/megan21_emis_factors_78pft_c20161108.nc'
+ megan_specifier = 'ISOP = isoprene', 'C10H16 = pinene_a + carene_3 + thujene_a',
+                   'CH3OH = methanol', 'C2H5OH = ethanol', 'CH2O = formaldehyde',
+                   'CH3CHO = acetaldehyde', 'CH3COOH = acetic_acid',
+                   'CH3COCH3 = acetone'
 /

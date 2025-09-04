@@ -1,7 +1,7 @@
 &modelio
  diri = 'UNUSED'
- diro = './logs'
- logfile = 'glc.log'
+ diro = "/p/scratch/training2538/naz1/Regional_NRW/logs"
+ logfile = "724002.comp_glc.log"
 /
 &pio_inparm
  pio_netcdf_format = '64bit_offset'

@@ -1,1 +1,0 @@
-/p/project1/training2538/shared_data/Day4/inputdata/common/snicar_optics_5bnd_c090915.nc
