@@ -1,0 +1,1 @@
+/p/project1/training2538/shared_data/Day1_2/Regional_NRW/inputdata/surfdata_300x300_NRW_hist_78pfts_CMIP6_simyr2000_c190619.nc

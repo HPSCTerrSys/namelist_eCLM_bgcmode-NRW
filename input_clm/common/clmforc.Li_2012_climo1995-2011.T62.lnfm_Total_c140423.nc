@@ -1,0 +1,1 @@
+/p/project1/training2538/shared_data/Day1_2/common/clmforc.Li_2012_climo1995-2011.T62.lnfm_Total_c140423.nc

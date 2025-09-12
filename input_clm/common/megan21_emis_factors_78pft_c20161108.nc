@@ -1,0 +1,1 @@
+/p/project1/training2538/shared_data/Day1_2/common/megan21_emis_factors_78pft_c20161108.nc

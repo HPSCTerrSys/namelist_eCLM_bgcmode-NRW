@@ -1,0 +1,1 @@
+/p/project1/training2538/shared_data/Day1_2/common/snicar_drdt_bst_fit_60_c070416.nc
