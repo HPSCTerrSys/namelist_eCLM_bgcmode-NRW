@@ -4,11 +4,11 @@
  co2_type = 'constant'
  create_crop_landunit = .true.
  dtime = 1800
- fatmlndfrc = '/p/project1/training2538/shared_data/Day1_2/Regional_NRW/inputdata/domain.lnd.300x300_NRW_300x300_NRW.190619.nc'
- finidat = '/p/project1/training2538/shared_data/Day1_2/Regional_NRW/inputdata/FSpinup_300x300_NRW.clm2.r.2222-01-01-00000.nc'
+ fatmlndfrc = './input_clm/domain.lnd.300x300_NRW_300x300_NRW.190619.nc'
+ finidat = './input_clm/FSpinup_300x300_NRW.clm2.r.2222-01-01-00000.nc'
  fsnowaging = '/p/project1/training2538/shared_data/Day1_2/common/snicar_drdt_bst_fit_60_c070416.nc'
  fsnowoptics = '/p/project1/training2538/shared_data/Day1_2/common/snicar_optics_5bnd_c090915.nc'
- fsurdat = '/p/project1/training2538/shared_data/Day1_2/Regional_NRW/inputdata/surfdata_300x300_NRW_hist_78pfts_CMIP6_simyr2000_c190619.nc'
+ fsurdat = './input_clm/surfdata_300x300_NRW_hist_78pfts_CMIP6_simyr2000_c190619.nc'
  glc_do_dynglacier = .false.
  glc_snow_persistence_max_days = 0
  h2osno_max = 10000.0
