@@ -12,7 +12,7 @@
         mask   mask
   </variableNames>
   <filePath>
-    /p/project1/training2433/shared_data/Day1_2/common
+    ./input_clm/common
   </filePath>
   <fileNames>
      topodata_0.9x1.25_USGS_070110_stream_c151201.nc
@@ -23,7 +23,7 @@
      TOPO topo
    </variableNames>
    <filePath>
-     /p/project1/training2433/shared_data/Day1_2/common
+     ./input_clm/common
    </filePath>
    <fileNames>
     topodata_0.9x1.25_USGS_070110_stream_c151201.nc

@@ -12,7 +12,7 @@
         mask    mask
       </variableNames>
       <filePath>
-	./input_clm
+      ./input_clm
       </filePath>
       <fileNames>
 	domain.lnd.300x300_NRW_300x300_NRW.190619.nc

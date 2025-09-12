@@ -23,7 +23,7 @@
         PRECTmms  precn 
       </variableNames>
       <filePath>
-        ./forcings
+	./forcings
       </filePath>
       <fileNames>
 	2017-01.nc
