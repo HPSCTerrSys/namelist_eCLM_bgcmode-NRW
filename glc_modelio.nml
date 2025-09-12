@@ -1,7 +1,7 @@
 &modelio
  diri = 'UNUSED'
  diro = './logs'
- logfile = '724002.comp_glc.log'
+ logfile = 'glc.log'
 /
 &pio_inparm
  pio_netcdf_format = '64bit_offset'
