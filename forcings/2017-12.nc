@@ -1,0 +1,1 @@
+/p/project1/training2538/shared_data/Day1_2/Regional_NRW/inputdata/COSMOREA6_forcings/2017-12.nc
