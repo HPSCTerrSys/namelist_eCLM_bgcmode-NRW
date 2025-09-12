@@ -95,7 +95,7 @@
   ice_ncat = 1
   nan_check_component_fields = .true.
   seq_flds_i2o_per_cat = .false.
- /
+/
 &seq_cplflds_userspec
   cplflds_custom = ""
 /
@@ -192,7 +192,7 @@
   tchkpt_dir = "./timing/checkpoints"
   tfreeze_option = "mushy"
   timing_dir = "./timing"
-  username = "naz1"
+  username = "user1"
   vect_map = "cart3d"
   wall_time_limit = -1.0
   wav_gnam = "null"
